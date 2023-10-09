@@ -1,0 +1,4 @@
+Names     grades
+Tesla	    98
+Majid	    67
+Leigh       99

@@ -1,3 +1,4 @@
 Name     Grade
 Majid 	   99
 Hassan     56
+Janice     78
